@@ -54,7 +54,7 @@ Full Stack Developer • React • Node.js • Three.js
 
 👨‍💻 Full Stack Developer from Mexico 🇲🇽
 
-🚀 Passionate about building modern web applications and interactive 3D experiences.
+💻 I enjoy building modern web applications and learning new technologies.
 
 💼 Currently developing custom uniform configurators and full-stack web applications.
 
@@ -63,9 +63,6 @@ React • Node.js • Express • MySQL
 
 🎨 Frontend:
 Tailwind CSS • Three.js • Vite
-
-🌱 Currently learning:
-TypeScript, Docker and Cloud Deployment
 
 </p>
 
@@ -160,19 +157,16 @@ TypeScript, Docker and Cloud Deployment
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
+<h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
+
   <img src="https://streak-stats.demolab.com?user=jaguArath&theme=dark" height="220"/>
 
   <br><br>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jaguArath&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jaguArath&show_icons=true&theme=tokyonight"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaguArath&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jaguArath&layout=compact&theme=tokyonight"/>
+
 </div>
-
-###
-](url)](url)
