@@ -1,4 +1,4 @@
-[[## Hi there 👋
+
 
 <!--
 **jaguArath/jaguArath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -157,16 +157,10 @@ Tailwind CSS • Three.js • Vite
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
-<div align="center">
+###
 
-  <img src="https://streak-stats.demolab.com?user=jaguArath&theme=dark" height="220"/>
-
-  <br><br>
-
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jaguArath&show_icons=true&theme=tokyonight"/>
-
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jaguArath&layout=compact&theme=tokyonight"/>
-
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=jaguArath&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
