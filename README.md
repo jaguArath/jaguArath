@@ -1,166 +1,143 @@
+<div align="center">
 
+# 👋 Hi, I'm Arath Balam
 
-<!--
-**jaguArath/jaguArath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer • Full Stack Developer • Data Analyst
 
-Here are some ideas to get you started:
+🇲🇽 Mérida, Yucatán, México
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/arath-manuel-balam-cetina-258201422/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
-
-  <a href="mailto:am.balamcetina@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
+<a href="https://www.linkedin.com/in/arath-manuel-balam-cetina-258201422/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<a href="mailto:am.balamcetina@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
 </div>
 
-###
+---
 
-<h1 align="center">Hi, I'm Arath Balam 👋</h1>
+## 👨‍💻 About Me
 
-<h3 align="center">
-Full Stack Developer • React • Node.js • Three.js
-</h3>
+I'm a **Software Development and Management Engineer** focused on building modern web applications and digital solutions.
 
-<!-- Visitas -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaguArath&style=for-the-badge&color=blue" />
-</p>
+I have experience working with **frontend development, backend development, REST APIs, databases, 3D web experiences and data visualization**.
 
-###
+💻 Main stack: **React · Node.js · Express · MySQL**
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+🎨 Frontend: **JavaScript · React · Tailwind CSS · Vite**
 
-###
+🧊 3D Development: **Three.js · React Three Fiber**
 
-<p align="left">
+📊 Data: **SQL · Power BI**
 
-👨‍💻 Full Stack Developer from Mexico 🇲🇽
+🔧 Tools: **Git · GitHub · Postman · VS Code**
 
-💻 I enjoy building modern web applications and learning new technologies.
+---
 
-💼 Currently developing custom uniform configurators and full-stack web applications.
+## 🚀 Featured Projects
 
-⚛️ Main Stack:
-React • Node.js • Express • MySQL
+### 🦁 DarkLion Designer
 
-🎨 Frontend:
-Tailwind CSS • Three.js • Vite
+Interactive web application for **uniform customization**, combining a modern user interface with **3D visualization**.
 
-</p>
+Users can select different types of garments and customize their design while viewing the result through an interactive 3D environment.
 
-###
+**Tech Stack**
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+`React` `JavaScript` `Three.js` `React Three Fiber` `Zustand` `Tailwind CSS` `Vite`
 
-###
+🔒 **Source code:** Private
 
-<div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/svg/FFB13B" height="40" alt="svg logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="40" alt="apachecassandra logo"  />
-  <img width="12" />
-  
-  <img width="12" />
-  
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pug/A86454" height="40" alt="pug logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/rstudioide/75AADB" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sequelize" height="40" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+🌐 **[View Live Demo](https://darklion-dldesigner.onrender.com/Home)**
+
+---
+
+### 💌 Invitation Management API
+
+REST API developed for managing events, guests and invitation confirmations.
+
+The API includes token-based access for guests and endpoints for retrieving invitation information and registering attendance confirmations.
+
+**Tech Stack**
+
+`Node.js` `Express` `MySQL` `REST API` `JWT/Token Authentication`
+
+🔓 **Source code:** Available in my repositories
+
+---
+
+### 🏠 Real Estate Platform
+
+Web platform developed for managing and presenting real estate information through a modern web interface.
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `MySQL`
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+
+### Data & Other Technologies
+
+<img src="https://skillicons.dev/icons?i=python,typescript,flutter,arduino" />
+
 </div>
 
-###
+---
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+## 📊 GitHub Stats
 
-###
+<div align="center">
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=jaguArath&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=jaguArath&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 📫 Contact
+
+I'm currently interested in opportunities related to:
+
+* 💻 Software Development
+* 🌐 Full Stack Development
+* ⚛️ React Development
+* 🟢 Node.js / Backend Development
+* 📊 Data Analysis
+* 📈 Business Intelligence
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/arath-manuel-balam-cetina-258201422/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:am.balamcetina@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 👋
+
 </div>
