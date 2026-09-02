@@ -4,7 +4,7 @@
 
 ### Software Developer • Full Stack Developer • Data Analyst
 
-🇲🇽 Mérida, Yucatán, México
+🇲🇽 Mérida, Yucatán, Mexico
 
 <a href="https://www.linkedin.com/in/arath-manuel-balam-cetina-258201422/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -21,9 +21,9 @@
 
 I'm a **Software Development and Management Engineer** focused on building modern web applications and digital solutions.
 
-I have experience working with **frontend development, backend development, REST APIs, databases, 3D web experiences and data visualization**.
+I have experience in **frontend development, backend development, REST APIs, databases, 3D web experiences, and data visualization**.
 
-💻 Main stack: **React · Node.js · Express · MySQL**
+💻 Main Stack: **React · Node.js · Express · MySQL**
 
 🎨 Frontend: **JavaScript · React · Tailwind CSS · Vite**
 
@@ -41,39 +41,61 @@ I have experience working with **frontend development, backend development, REST
 
 Interactive web application for **uniform customization**, combining a modern user interface with **3D visualization**.
 
-Users can select different types of garments and customize their design while viewing the result through an interactive 3D environment.
+Users can select different types of garments and customize their designs while viewing the result through an interactive 3D environment.
 
 **Tech Stack**
 
 `React` `JavaScript` `Three.js` `React Three Fiber` `Zustand` `Tailwind CSS` `Vite`
 
-🔒 **Source code:** Private
+🔒 **Source Code:** Private
 
 🌐 **[View Live Demo](https://darklion-dldesigner.onrender.com/Home)**
 
 ---
 
-### 💌 Invitation Management API
+### 🏠 Real Estate Platform
 
-REST API developed for managing events, guests and invitation confirmations.
+Web platform developed for the **management and presentation of real estate properties**, built using an MVC architecture.
 
-The API includes token-based access for guests and endpoints for retrieving invitation information and registering attendance confirmations.
+The platform includes authentication, property management, administrative features, and database integration.
 
 **Tech Stack**
 
-`Node.js` `Express` `MySQL` `REST API` `JWT/Token Authentication`
+`Node.js` `Express` `Pug` `MySQL` `Sequelize` `JWT`
 
-🔓 **Source code:** Available in my repositories
+🌐 **[View Live Demo](https://bienes-raices-coral.vercel.app/)**
 
 ---
 
-### 🏠 Real Estate Platform
+### 💌 Invitation Management
 
-Web platform developed for managing and presenting real estate information through a modern web interface.
+Web system and REST API focused on the **management of events, guests, and attendance confirmations**.
+
+The project allows invitation information to be accessed through personalized tokens and attendance confirmations to be registered.
+
+The project is currently under development, with additional features for event and guest management being implemented.
+
+**Tech Stack**
+
+`Node.js` `Express` `MySQL` `REST API` `Token Authentication`
+
+🔓 **Source Code:** Available in my repositories
+
+🚧 **Project in Development**
+
+---
+
+### 🍽️ Food Local Management
+
+Web platform focused on the **management and discovery of local food businesses**, designed to connect restaurants and food businesses with users.
+
+The project is currently under development, with new features and modules being implemented.
 
 **Tech Stack**
 
 `React` `Node.js` `Express` `MySQL`
+
+🚧 **Project in Development**
 
 ---
 
