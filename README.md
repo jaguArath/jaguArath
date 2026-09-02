@@ -1,6 +1,6 @@
 <div align="center">
 
-  🇺🇸 **English** · [🇪🇸 Español](README.md)
+🇪🇸 **Español** · [🇺🇸 English](README.md)
 # 👋 Hi, I'm Arath Balam
 
 ### Software Developer • Full Stack Developer • Data Analyst
