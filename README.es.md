@@ -55,11 +55,27 @@ Los usuarios pueden seleccionar diferentes tipos de prendas y personalizar su di
 
 ---
 
+### 🏠 Real Estate Platform
+
+Plataforma web para la **gestión y presentación de propiedades inmobiliarias**, desarrollada con arquitectura MVC.
+
+Incluye funcionalidades de autenticación, gestión de propiedades, administración de información y conexión con base de datos.
+
+**Tecnologías**
+
+`Node.js` `Express` `Pug` `MySQL` `Sequelize` `JWT`
+
+🌐 **[Ver Demo](https://bienes-raices-coral.vercel.app/)**
+
+---
+
 ### 💌 Invitation Management API
 
 API REST desarrollada para la **gestión de eventos, invitados y confirmaciones de asistencia**.
 
 La API permite consultar información de invitaciones mediante tokens y registrar las confirmaciones de asistencia de los invitados.
+
+El proyecto se encuentra actualmente en desarrollo, incorporando nuevas funcionalidades para la administración de eventos e invitados.
 
 **Tecnologías**
 
@@ -69,23 +85,19 @@ La API permite consultar información de invitaciones mediante tokens y registra
 
 🚧 **Proyecto en desarrollo**
 
-🌐 **[Ver proyecto](https://bienes-raices-coral.vercel.app/)**
-
 ---
 
-### 🏠 Real Estate Platform
+### 🍽️ Food Local Management
 
-Plataforma web para la **gestión y presentación de propiedades inmobiliarias**, con funcionalidades orientadas a administradores y usuarios.
+Plataforma web enfocada en la **gestión y descubrimiento de locales de comida**, diseñada para conectar negocios gastronómicos con usuarios.
 
-El proyecto se encuentra actualmente en desarrollo y despliegue, incorporando funcionalidades de gestión de propiedades, autenticación y conexión con base de datos.
+El proyecto se encuentra actualmente en desarrollo, con diferentes funcionalidades y módulos en proceso de implementación.
 
 **Tecnologías**
 
-`Node.js` `Express` `Pug` `MySQL` `Sequelize` `JWT`
+`React` `Node.js` `Express` `MySQL`
 
 🚧 **Proyecto en desarrollo**
-
-🌐 **[Ver proyecto](https://bienes-raices-coral.vercel.app/)**
 
 ---
 
