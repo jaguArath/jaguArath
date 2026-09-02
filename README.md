@@ -1,5 +1,6 @@
 <div align="center">
 
+  🇺🇸 **English** · [🇪🇸 Español](README.md)
 # 👋 Hi, I'm Arath Balam
 
 ### Software Developer • Full Stack Developer • Data Analyst
@@ -55,11 +56,11 @@ Users can select different types of garments and customize their designs while v
 
 ### 🏠 Real Estate Platform
 
-Web platform developed for the **management and presentation of real estate properties**, built using an MVC architecture.
+Web platform for the management and presentation of real estate properties, developed using an MVC architecture.
 
-The platform includes authentication, property management, administrative features, and database integration.
+It includes authentication, property management, administrative features, and database integration.
 
-**Tech Stack**
+**Technologies**
 
 `Node.js` `Express` `Pug` `MySQL` `Sequelize` `JWT`
 
@@ -69,17 +70,18 @@ The platform includes authentication, property management, administrative featur
 
 ### 💌 Invitation Management
 
-Web system and REST API focused on the **management of events, guests, and attendance confirmations**.
+REST API developed for the management of events, guests, and attendance confirmations.
 
-The project allows invitation information to be accessed through personalized tokens and attendance confirmations to be registered.
+The API allows guests to access invitation information through tokens and register their attendance confirmations.
 
 The project is currently under development, with additional features for event and guest management being implemented.
 
-**Tech Stack**
+**Technologies**
 
 `Node.js` `Express` `MySQL` `REST API` `Token Authentication`
 
-🔓 **Source Code:** Available in my repositories
+
+🔒 **Source Code:** Private
 
 🚧 **Project in Development**
 
@@ -87,13 +89,13 @@ The project is currently under development, with additional features for event a
 
 ### 🍽️ Food Local Management
 
-Web platform focused on the **management and discovery of local food businesses**, designed to connect restaurants and food businesses with users.
+Web platform focused on the management and discovery of local food businesses, designed to connect food businesses with users.
 
-The project is currently under development, with new features and modules being implemented.
+The project is currently under development, with different features and modules being implemented.
 
 **Tech Stack**
 
-`React` `Node.js` `Express` `MySQL`
+`Astro` `TypeScript` `Tailwind CSS` `GSAP` `Cloudflare`
 
 🚧 **Project in Development**
 
