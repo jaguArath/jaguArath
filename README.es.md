@@ -65,6 +65,8 @@ Incluye funcionalidades de autenticación, gestión de propiedades, administraci
 
 `Node.js` `Express` `Pug` `MySQL` `Sequelize` `JWT`
 
+🔒 **Código fuente:** Privado
+
 🌐 **[Ver Demo](https://bienes-raices-coral.vercel.app/)**
 
 ---
@@ -79,9 +81,9 @@ El proyecto se encuentra actualmente en desarrollo, incorporando nuevas funciona
 
 **Tecnologías**
 
-`Node.js` `Express` `MySQL` `REST API` `Token Authentication`
+`Astro` `TypeScript` `Tailwind CSS` `GSAP` `Cloudflare`
 
-🔓 **Código fuente:** Disponible en mis repositorios
+🔒 **Código fuente:** Privado
 
 🚧 **Proyecto en desarrollo**
 
@@ -89,13 +91,13 @@ El proyecto se encuentra actualmente en desarrollo, incorporando nuevas funciona
 
 ### 🍽️ Food Local Management
 
-Plataforma web enfocada en la **gestión y descubrimiento de locales de comida**, diseñada para conectar negocios gastronómicos con usuarios.
+Plataforma web enfocada en la gestión y descubrimiento de locales de comida, diseñada para conectar negocios gastronómicos con usuarios.
 
 El proyecto se encuentra actualmente en desarrollo, con diferentes funcionalidades y módulos en proceso de implementación.
 
 **Tecnologías**
 
-`React` `Node.js` `Express` `MySQL`
+`Astro` `TypeScript` `Tailwind CSS` `GSAP` `Cloudflare`
 
 🚧 **Proyecto en desarrollo**
 
