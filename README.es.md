@@ -57,9 +57,9 @@ Los usuarios pueden seleccionar diferentes tipos de prendas y personalizar su di
 
 ### 💌 Invitation Management API
 
-API REST desarrollada para la gestión de eventos, invitados y confirmaciones de asistencia.
+API REST desarrollada para la **gestión de eventos, invitados y confirmaciones de asistencia**.
 
-La API incluye acceso mediante tokens para los invitados y diferentes endpoints para consultar la información de las invitaciones y registrar las confirmaciones de asistencia.
+La API permite consultar información de invitaciones mediante tokens y registrar las confirmaciones de asistencia de los invitados.
 
 **Tecnologías**
 
@@ -67,15 +67,25 @@ La API incluye acceso mediante tokens para los invitados y diferentes endpoints 
 
 🔓 **Código fuente:** Disponible en mis repositorios
 
+🚧 **Proyecto en desarrollo**
+
+🌐 **[Ver proyecto](https://bienes-raices-coral.vercel.app/)**
+
 ---
 
 ### 🏠 Real Estate Platform
 
-Plataforma web desarrollada para la gestión y presentación de información inmobiliaria mediante una interfaz web moderna.
+Plataforma web para la **gestión y presentación de propiedades inmobiliarias**, con funcionalidades orientadas a administradores y usuarios.
+
+El proyecto se encuentra actualmente en desarrollo y despliegue, incorporando funcionalidades de gestión de propiedades, autenticación y conexión con base de datos.
 
 **Tecnologías**
 
-`React` `Node.js` `Express` `MySQL`
+`Node.js` `Express` `Pug` `MySQL` `Sequelize` `JWT`
+
+🚧 **Proyecto en desarrollo**
+
+🌐 **[Ver proyecto](https://bienes-raices-coral.vercel.app/)**
 
 ---
 
