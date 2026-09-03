@@ -1,6 +1,7 @@
 <div align="center">
 
-🇪🇸 **Español** · [🇺🇸 English](README.md)
+[🇲🇽 Spanish (Mexico)](README.es.md) · 🇺🇸 **English**
+
 # 👋 Hi, I'm Arath Balam
 
 ### Software Developer • Full Stack Developer • Data Analyst
@@ -20,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Development and Management Engineer** focused on building modern web applications and digital solutions.
+I'm a **Software Development and Management Engineer**, focused on building modern web applications and digital solutions.
 
 I have experience in **frontend development, backend development, REST APIs, databases, 3D web experiences, and data visualization**.
 
@@ -44,7 +45,7 @@ Interactive web application for **uniform customization**, combining a modern us
 
 Users can select different types of garments and customize their designs while viewing the result through an interactive 3D environment.
 
-**Tech Stack**
+**Technologies**
 
 `React` `JavaScript` `Three.js` `React Three Fiber` `Zustand` `Tailwind CSS` `Vite`
 
@@ -56,7 +57,7 @@ Users can select different types of garments and customize their designs while v
 
 ### 🏠 Real Estate Platform
 
-Web platform for the management and presentation of real estate properties, developed using an MVC architecture.
+Web platform for the **management and presentation of real estate properties**, developed using an MVC architecture.
 
 It includes authentication, property management, administrative features, and database integration.
 
@@ -64,22 +65,23 @@ It includes authentication, property management, administrative features, and da
 
 `Node.js` `Express` `Pug` `MySQL` `Sequelize` `JWT`
 
+🔒 **Source Code:** Private
+
 🌐 **[View Live Demo](https://bienes-raices-coral.vercel.app/)**
 
 ---
 
-### 💌 Invitation Management
+### 💌 Event Invitation & RSVP Platform
 
-REST API developed for the management of events, guests, and attendance confirmations.
+Web platform and REST API designed to **create and manage events, invitations, guests, and attendance confirmations**.
 
-The API allows guests to access invitation information through tokens and register their attendance confirmations.
+The system provides **token-based access to personalized invitations**, allowing guests to view event information and confirm their attendance.
 
-The project is currently under development, with additional features for event and guest management being implemented.
+The project is currently under development, with new features for **event administration, guest management, and attendance tracking** being implemented.
 
 **Technologies**
 
-`Node.js` `Express` `MySQL` `REST API` `Token Authentication`
-
+`Astro` `TypeScript` `Tailwind CSS` `GSAP` `Cloudflare`
 
 🔒 **Source Code:** Private
 
@@ -87,13 +89,13 @@ The project is currently under development, with additional features for event a
 
 ---
 
-### 🍽️ Food Local Management
+### 🍽️ Food Local Discovery & Management Platform
 
-Web platform focused on the management and discovery of local food businesses, designed to connect food businesses with users.
+Web platform focused on the **management and discovery of local food businesses**, designed to help users find food establishments and view relevant information about their services.
 
-The project is currently under development, with different features and modules being implemented.
+The project is currently under development, with features focused on **business management, information presentation, and user discovery**.
 
-**Tech Stack**
+**Technologies**
 
 `Astro` `TypeScript` `Tailwind CSS` `GSAP` `Cloudflare`
 
