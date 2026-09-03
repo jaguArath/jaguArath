@@ -1,6 +1,6 @@
 <div align="center">
 
-🇪🇸 **Español** · [🇺🇸 English](README.md)
+🇲🇽 **Español (México)** · [🇺🇸 English](README.md)
 
 # 👋 Hola, soy Arath Balam
 
@@ -71,13 +71,13 @@ Incluye funcionalidades de autenticación, gestión de propiedades, administraci
 
 ---
 
-### 💌 Invitation Management API
+### 💌 Event Invitation & RSVP Platform
 
-API REST desarrollada para la **gestión de eventos, invitados y confirmaciones de asistencia**.
+Plataforma web y API REST diseñada para crear y gestionar eventos, invitaciones, invitados y confirmaciones de asistencia.
 
-La API permite consultar información de invitaciones mediante tokens y registrar las confirmaciones de asistencia de los invitados.
+El sistema permite el acceso mediante tokens a invitaciones personalizadas, donde los invitados pueden consultar la información del evento y confirmar su asistencia.
 
-El proyecto se encuentra actualmente en desarrollo, incorporando nuevas funcionalidades para la administración de eventos e invitados.
+Actualmente se encuentra en desarrollo, incorporando nuevas funcionalidades para la administración de eventos, gestión de invitados y seguimiento de confirmaciones.
 
 **Tecnologías**
 
@@ -89,11 +89,11 @@ El proyecto se encuentra actualmente en desarrollo, incorporando nuevas funciona
 
 ---
 
-### 🍽️ Food Local Management
+### 🍽️ Food Local Discovery & Management Platform
 
-Plataforma web enfocada en la gestión y descubrimiento de locales de comida, diseñada para conectar negocios gastronómicos con usuarios.
+Plataforma web enfocada en la gestión y descubrimiento de locales de comida, diseñada para ayudar a los usuarios a encontrar establecimientos gastronómicos y consultar información relevante sobre sus servicios.
 
-El proyecto se encuentra actualmente en desarrollo, con diferentes funcionalidades y módulos en proceso de implementación.
+El proyecto se encuentra actualmente en desarrollo, con funcionalidades orientadas a la gestión de establecimientos, presentación de información y experiencia de descubrimiento para los usuarios.
 
 **Tecnologías**
 
