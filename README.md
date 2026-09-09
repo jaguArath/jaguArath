@@ -71,6 +71,22 @@ It includes authentication, property management, administrative features, and da
 
 ---
 
+### 🔨 Herrería Balam
+
+Modern website developed for a **metalworking business**, focused on presenting services, showcasing completed projects, and generating quotation requests through WhatsApp.
+
+The platform includes dedicated service pages, project catalogs, responsive interfaces, SEO metadata, interactive navigation, and a quotation flow that allows users to reference specific projects when requesting a quote.
+
+**Technologies**
+
+`Astro` `JavaScript` `Tailwind CSS` `GSAP` `HTML` `CSS`
+
+🌐 **[View Live Website](https://herreria-balam.vercel.app/)**
+
+🚀 **[View Source Code](https://github.com/jaguArath/herreriaBalam)**
+
+---
+
 ### 💌 Event Invitation & RSVP Platform
 
 Web platform and REST API designed to **create and manage events, invitations, guests, and attendance confirmations**.
