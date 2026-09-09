@@ -71,6 +71,23 @@ Incluye funcionalidades de autenticación, gestión de propiedades, administraci
 
 ---
 
+
+### 🔨 Herrería Balam
+
+Sitio web moderno desarrollado para un negocio de herrería, enfocado en la presentación de servicios, exhibición de proyectos realizados y generación de solicitudes de cotización mediante WhatsApp.
+
+La plataforma incluye páginas dedicadas para cada servicio, catálogos de proyectos, interfaces responsive, metadatos SEO, navegación interactiva y un flujo de cotización que permite a los usuarios seleccionar proyectos específicos como referencia al solicitar una cotización.
+
+**Tecnologías**
+
+`Astro` `JavaScript` `Tailwind CSS` `GSAP` `HTML` `CSS`
+
+🚀 **Ver Código Fuente(https://github.com/jaguArath/herreriaBalam)**
+
+🌐 **[Ver Demo](https://herreria-balam.vercel.app/)**
+
+---
+
 ### 💌 Event Invitation & RSVP Platform
 
 Plataforma web y API REST diseñada para crear y gestionar eventos, invitaciones, invitados y confirmaciones de asistencia.
