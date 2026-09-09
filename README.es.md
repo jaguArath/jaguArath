@@ -82,7 +82,7 @@ La plataforma incluye páginas dedicadas para cada servicio, catálogos de proye
 
 `Astro` `JavaScript` `Tailwind CSS` `GSAP` `HTML` `CSS`
 
-🚀 **Ver Código Fuente(https://github.com/jaguArath/herreriaBalam)**
+🚀 **[Ver Código Fuente](https://github.com/jaguArath/herreriaBalam)**
 
 🌐 **[Ver Demo](https://herreria-balam.vercel.app/)**
 
